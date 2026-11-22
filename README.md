@@ -12,7 +12,7 @@ A tiny Node program that writes one short, warm text to `/output/entry.txt` — 
 node main.ts
 ```
 
-It writes `/output/entry.txt` (257 characters, UTF-8, no trailing newline) and nothing else. No network, no dependencies, Node 22 standard library only.
+It writes `/output/entry.txt` (252 characters, UTF-8, no trailing newline) and nothing else. No network, no dependencies, Node 22 standard library only.
 
 ---
 

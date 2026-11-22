@@ -10,7 +10,7 @@ import { chmodSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const TEXT =
-  "You have read a thousand texts today, and every one of them wanted something from you. This one doesn’t. It is just a warm room, a chair that knows your weight, a kettle gone quiet — and an evening in no hurry, holding the door open for as long as you need.";
+  "You have read a thousand texts today, and every one of them wanted something from you. This one doesn’t. It is a warm room, a chair that knows your weight, a kettle gone quiet — and an evening in no hurry, holding the door open for as long as you need.";
 
 const MAX_CODE_POINTS = 280;
 
